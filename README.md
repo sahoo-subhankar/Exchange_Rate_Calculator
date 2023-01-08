@@ -16,7 +16,8 @@ In this project I build one Exchange Rate Calculator where I used one fetch API 
 
 
 ### Overview
-![My Image](../README_Image/Main-screen.png)
+
+<img src="../README_Image/Main-screen.png" alt="Main Screen Overview" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 ### Requirements
