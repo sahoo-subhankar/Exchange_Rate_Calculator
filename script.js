@@ -23,7 +23,7 @@ function caclulate() {
     });
 }
 
-// Event listeners
+// Event listeners to make the work done
 currencyEl_one.addEventListener('change', caclulate);
 amountEl_one.addEventListener('input', caclulate);
 currencyEl_two.addEventListener('change', caclulate);
