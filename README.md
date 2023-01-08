@@ -21,7 +21,9 @@ In this project I build one Exchange Rate Calculator where I used one fetch API 
 
 
 ### Requirements
-`HTML` `CSS` `Javascript`
+- `HTML`
+- `CSS`
+- `Javascript`
 - [API](https://www.exchangerate-api.com/)
 
 
