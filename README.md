@@ -1,14 +1,38 @@
 # Exchange_Rate_Calculator
 
-Get Your Currency Exchange Rate
+### Table of contents
+
+- Introduction
+- Overview
+- Requirements
+- Contributing
+- Current Maintainer
+- License
 
 
-## Contributing
+### Introduction
 
-Pull requests are welcome. For major changes, please open an issue first
+In this project I build one Exchange Rate Calculator where I used one fetch API to make an HTTP Request to a third party API to get some Exchange Rate and then put that into the DOM(Document Object Model).
+
+
+### Overview
+![My Image](../README_Image/Main-screen.png)
+
+
+### Requirements
+- [API](https://www.exchangerate-api.com/)
+
+
+
+### Contributing
+
+Pull requests are welcome. For major changes, please open an issue first(if any)
 to discuss what you would like to change.
 
 
-## License
+### Current Maintainer
+[Subhankar Sahoo](https://github.com/sahoo-subha)
+
+### License
 
 [MIT](https://github.com/sahoo-subha/Exchange_Rate_Calculator/blob/main/LICENSE)
