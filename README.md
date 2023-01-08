@@ -27,13 +27,13 @@ In this project I build one Exchange Rate Calculator where I used one fetch API 
 
 ### Contributing
 
-Pull requests are welcome. For major changes, please open an issue first(if any)
+Pull requests are welcome. For major changes, please open an issue first (if any)
 to discuss what you would like to change.
 
 
 ### Current Maintainer
-[Subhankar Sahoo](https://github.com/sahoo-subha)
+- [Subhankar Sahoo](https://github.com/sahoo-subha)
 
 ### License
 
-[MIT](https://github.com/sahoo-subha/Exchange_Rate_Calculator/blob/main/LICENSE)
+- [MIT](https://github.com/sahoo-subha/Exchange_Rate_Calculator/blob/main/LICENSE)
