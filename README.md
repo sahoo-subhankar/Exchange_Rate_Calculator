@@ -16,8 +16,9 @@ In this project I build one Exchange Rate Calculator where I used one fetch API 
 
 
 ### Overview
+![Main-screen](https://user-images.githubusercontent.com/89283572/221102075-0dd1acc3-6b1d-4e56-9fea-1276e02263f4.png)
 
-<img src="https://github.com/sahoo-subha/Exchange_Rate_Calculator/blob/main/README_Image/Main-screen.png" alt="Main Screeen Photo" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 
 ### Requirements
